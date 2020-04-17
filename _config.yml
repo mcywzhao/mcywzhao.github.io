@@ -11,10 +11,10 @@ webrick:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
 email: "957894146@qq.com"
-wechat: "mcywzhao"
+github: ""
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by mcywzhao, All Rights Reserved"
+statement: ""
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
